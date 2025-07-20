@@ -6,8 +6,13 @@ A responsive e-commerce website built using **React.js** hosted on **Replit**.
 
 ## 🔗 Live Demo  
 🌐 [Click to View Live](https://ad493132-a251-444e-b25e-5a9bde95bdf1-00-1g4v6yfe74fab.spock.replit.dev/)  
-✅ Kept 24/7 live using [Uptimerobot](https://uptimerobot.com)
+🔹 Demo Video (Google Drive):
+https://drive.google.com/file/d/1Tu43reCPFToykQnqRvj0ga9Ls_DwASpA/view?usp=sharing
 
+🔹 Note:
+
+Due to platform limits, the app isn’t live-hosted.
+A full working demo is provided via screen recording.
 ---
 
 ## ✨ Features
